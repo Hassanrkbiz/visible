@@ -1,6 +1,6 @@
 # visible.js
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm](https://img.shields.io/npm/v/@hassanrkbiz/visible.svg)](https://www.npmjs.com/package/@hassanrkbiz/visible)
+[![npm](https://img.shields.io/npm/v/@hassanrkbiz/visible.svg?label=version&colorB=007ec6)](https://www.npmjs.com/package/@hassanrkbiz/visible)
 [![GitHub stars](https://img.shields.io/github/stars/Hassanrkbiz/visible.svg?style=social)](https://github.com/Hassanrkbiz/visible)
 
 A lightweight, modern JavaScript library to detect when elements become visible or invisible in the viewport using the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API).
