@@ -1,6 +1,6 @@
 # visible.js
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm version](https://badge.fury.io/js/visible.js.svg)](https://www.npmjs.com/package/visible.js)
+[![npm version](https://badge.fury.io/js/visible.js.svg)](https://www.npmjs.com/package/@hassanrkbiz/visible)
 [![GitHub stars](https://img.shields.io/github/stars/Hassanrkbiz/visible.svg?style=social)](https://github.com/Hassanrkbiz/visible)
 
 A lightweight, modern JavaScript library to detect when elements become visible or invisible in the viewport using the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API).
@@ -19,16 +19,13 @@ A lightweight, modern JavaScript library to detect when elements become visible 
 
 ### CDN
 ```html
-<!-- Using jsDelivr -->
-<script src="https://cdn.jsdelivr.net/npm/visible.js@1.0.0/dist/visible.min.js"></script>
-
-<!-- Or download and include manually -->
+<!-- download and include manually -->
 <script src="path/to/visible.min.js"></script>
 ```
 
 ### NPM
 ```bash
-npm install visible.js
+npm install @hassanrkbiz/visible
 ```
 
 ### Download
