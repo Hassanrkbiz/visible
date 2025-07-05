@@ -1,6 +1,6 @@
 {
   "name": "@hassanrkbiz/visible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, modern library to detect when elements become visible or invisible in the viewport using the Intersection Observer API",
   "main": "src/visible.js",
   "scripts": {
