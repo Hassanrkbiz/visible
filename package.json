@@ -1,0 +1,36 @@
+{
+  "name": "visible.js",
+  "version": "1.0.0",
+  "description": "A lightweight, modern library to detect when elements become visible or invisible in the viewport using the Intersection Observer API",
+  "main": "src/visible.js",
+  "scripts": {
+    "test": "open ./tests/SpecRunner.html"
+  },
+  "keywords": [
+    "intersection-observer",
+    "viewport",
+    "visible",
+    "visibility",
+    "scroll",
+    "lazy-load",
+    "animation",  
+    "performance",
+    "observer",
+    "dom",
+    "javascript",
+    "browser",
+    "frontend",
+    "ui",
+    "ux"
+  ],
+  "author": "Hassan Raza <razahassan554@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hassanrkbiz/visible.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hassanrkbiz/visible/issues"
+  },
+  "homepage": "https://github.com/Hassanrkbiz/visible#readme"
+}
