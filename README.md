@@ -25,7 +25,7 @@ A lightweight, modern JavaScript library to detect when elements become visible 
 
 ### NPM
 ```bash
-npm install @hassanrkbiz/visible
+npm install @hassanrkbiz/visible --save
 ```
 
 ### Download

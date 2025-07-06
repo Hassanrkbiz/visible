@@ -4,7 +4,7 @@
  *
  * @author Hassan Raza <razahassan554@gmail.com>
  * https://github.com/Hassanrkbiz/visible
- * @version 1.0.0
+ * @version 1.0.3
  * @license MIT
  * @copyright Hassan Raza 2025
  */
